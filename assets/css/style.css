@@ -346,7 +346,7 @@ h1, h2, h3, h4, h5, h6 {
     display: inline;
   }
   .nav-menu a {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 
@@ -554,7 +554,7 @@ section {
     margin-top: 25px;
   }
   #about .about-description {
-    font-size: 15px;
+    font-size: 18px;
   }
 }
 
