@@ -452,6 +452,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   box-shadow: 2px 2px 2px lightgray;
 }
 
+@media (max-width: 768px) {
+  #hero .hero-container .social-links a {
+    font-size: 28px;
+  }
+}
+
 /* scroll down */
 #hero .btn-scroll {
   transition: 0.4s;
@@ -465,6 +471,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #hero .btn-scroll:hover {
   color: #2dc997;
+}
+
+@media (max-width: 768px) {
+  #hero .btn-scroll i {
+    font-size: 36px;
+  }
 }
 
 /*--------------------------------------------------------------
@@ -553,6 +565,9 @@ section {
   }
   #about .about-description {
     font-size: 18px;
+  }
+  #about .about-laptop {
+    font-size: 24px;
   }
 }
 
