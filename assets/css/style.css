@@ -191,6 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
   font-size: 42px;
   font-family: 'Merienda', cursive;
+  line-height: 48px;
 }
 
 @media (max-width: 768px) {
@@ -555,7 +556,7 @@ section {
     margin-top: 25px;
   }
   #about .about-description {
-    font-size: 12px;
+    font-size: 16px;
   }
   #about .about-laptop {
     font-size: 24px;
