@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #eee;
   margin-bottom: 50px;
   font-size: 42px;
-  font-family: 'Libre Baskerville', serif;
+  font-family: 'Merienda', cursive;
 }
 
 @media (max-width: 768px) {
@@ -502,6 +502,7 @@ section {
   padding-bottom: 40px;
   color: #343b40;
   font-size: 24px;
+  font-family: 'Merienda', cursive;
 }
 
 /* About Section
@@ -536,22 +537,12 @@ section {
   margin-bottom: 20px;
 }
 
-/* #about .about-title::after {
-  content: '';
-  position: absolute;
-  display: block;
-  width: 50px;
-  height: 3px;
-  background: #e03a3c;
-  bottom: 0;
-  left: calc(50% - 25px);
-} */
-
 #about .about-description {
   text-align: center;
   padding-bottom: 20px;
   color: #343b40;
   font-size: 24px;
+  font-family: 'Merienda', cursive;
 }
 
 #about .about-laptop {
